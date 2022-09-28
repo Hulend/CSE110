@@ -23,9 +23,9 @@ As such, I also have experience in:
 - Unit Tests
 
 ## Task List
-[X] Complete Lab 1
-[] Meet with the team
-[] Pass my classes
+- [X] Complete Lab 1
+- [] Meet with the team
+- [] Pass my classes
 
 ```
 public class Hello {
