@@ -23,7 +23,7 @@ As such, I also have experience in:
 - Unit Tests
 
 ## Task List
-- [X] Complete Lab 1
+- [X] Complete Lab 1 [Deliverable 1](screenshots/deliverable1.PNG) [Deliverable 2](screenshots/deliverable2.PNG)
 - [ ] Meet with the team
 - [ ] Pass my classes
 
