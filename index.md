@@ -24,8 +24,8 @@ As such, I also have experience in:
 
 ## Task List
 - [X] Complete Lab 1
-- [] Meet with the team
-- [] Pass my classes
+- [ ] Meet with the team
+- [ ] Pass my classes
 
 ```
 public class Hello {
